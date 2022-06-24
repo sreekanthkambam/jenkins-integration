@@ -1,3 +1,3 @@
 # jenkins-integration
 
-Sample Read me for master - version 2
+Sample Read me for master - version 3
