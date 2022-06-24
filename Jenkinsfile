@@ -18,7 +18,7 @@ pipeline {
         }
         stage('Salary Per Month') {
             steps {
-                echo "Your age is ${params.SalaryPerMonth}"
+                echo "Your Monthly Salary is ${params.SalaryPerMonth}"
             }
         }
     }
